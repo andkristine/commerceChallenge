@@ -6,6 +6,7 @@ import com.accenture.challenge.service.ProductServiceImpl;
 import org.junit.Before;
 
 import org.junit.jupiter.api.Test;
+import org.mockito.Mockito;
 
 import java.util.ArrayList;
 import java.util.List;
@@ -18,8 +19,8 @@ class ChallengeApplicationTests {
 
 	@Before
 	public void setUp() {
-		psi = new ProductServiceImpl();
-		pri = new ProductRepositoryImpl();
+		psi = Mockito.mock(ProductServiceImpl.class);
+		pri = Mockito.mock(ProductRepositoryImpl.class);
 		sampleCart = new ArrayList<Product>();
 		sampleCart.add(new Product(1, 36, Product.Color.GREY, Product.Gender.UNISEX));
 	}
