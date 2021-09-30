@@ -2,11 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="efe14142-63ad-46c3-ac30-178c97fef945" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/accenture/challenge/ChallengeApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/accenture/challenge/ChallengeApplication.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/accenture/challenge/repository/ProductRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/accenture/challenge/repository/ProductRepository.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/accenture/challenge/repository/ProductRepositoryImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/accenture/challenge/repository/ProductRepositoryImpl.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/accenture/challenge/service/ProductService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/accenture/challenge/service/ProductService.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/accenture/challenge/service/ProductServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/accenture/challenge/service/ProductServiceImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/test/java/com/accenture/challenge/ChallengeApplicationTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/accenture/challenge/ChallengeApplicationTests.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -39,5 +35,11 @@
       <updated>1632982566837</updated>
     </task>
     <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="527" y="148" key="CommitChangelistDialog2" timestamp="1632984202773">
+      <screen x="0" y="25" width="1792" height="1048" />
+    </state>
+    <state x="527" y="148" key="CommitChangelistDialog2/0.25.1792.1048@0.25.1792.1048" timestamp="1632984202773" />
   </component>
 </project>
