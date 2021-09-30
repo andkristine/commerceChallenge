@@ -8,6 +8,4 @@ public interface ProductRepository {
 
     Product getProductById(int id, List<Product> productList);
 
-
-
 }

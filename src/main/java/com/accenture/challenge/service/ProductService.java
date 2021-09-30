@@ -12,5 +12,4 @@ public interface ProductService {
 
     String showAllProductsInCart(List<Product> cart);
 
-
 }
